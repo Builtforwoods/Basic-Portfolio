@@ -1,0 +1,21 @@
+#rodo{
+    float:left;
+   height:300px;
+   width:300px;
+}
+p {
+    font-size:25px;
+}
+#myOnamae{
+    background-color: #32FED5;
+    width:300px;
+}
+#aboot
+{
+    background-color:#ffffff;
+}
+.body{
+    background-image: url(Images/beige-tiles.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
