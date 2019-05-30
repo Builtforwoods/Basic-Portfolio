@@ -35,3 +35,11 @@ display: inline-block;
     height: 800px;
     align-content: center;
   }
+  #jumbotron{
+      color: #ffffff;
+  }
+  #electrifyMy{
+text-emphasis: none;
+float: right;
+display: inline;
+  }
